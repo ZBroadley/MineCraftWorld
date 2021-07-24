@@ -1,0 +1,20 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-07-24 17:16:16 +0100",
+      "minecraft:mountains": "2021-07-24 18:44:16 +0100",
+      "minecraft:taiga": "2021-07-24 18:40:48 +0100",
+      "minecraft:giant_tree_taiga": "2021-07-24 18:40:22 +0100",
+      "minecraft:taiga_hills": "2021-07-24 18:40:17 +0100",
+      "minecraft:desert": "2021-07-24 17:16:21 +0100",
+      "minecraft:beach": "2021-07-24 17:16:36 +0100",
+      "minecraft:river": "2021-07-24 17:16:35 +0100",
+      "minecraft:wooded_hills": "2021-07-24 17:17:01 +0100",
+      "minecraft:giant_tree_taiga_hills": "2021-07-24 18:40:40 +0100",
+      "minecraft:savanna": "2021-07-24 17:16:37 +0100",
+      "minecraft:plains": "2021-07-24 17:15:45 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
